@@ -23,9 +23,522 @@
     ],
     "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\gizmo\\scene-gizmo.mtl": [
       "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\default_materials\\default-material-transparent.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\default_materials\\default-material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\default_materials\\particle-add.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\default_materials\\ui-sprite-material.mtl": [
+      "60f7195c-ec2a-45eb-ba94-8955f60e81d0"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\default_renderpipeline\\deferred-lighting.mtl": [
+      "5d45aa00-e064-4938-b314-4265f0c2258c"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\default_renderpipeline\\post-process.mtl": [
+      "ec8106fe-05bf-4e94-943c-e0d3b7bb5e45"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\default_renderpipeline\\tonemap.mtl": [
+      "31b152ff-f689-4082-a292-3eb5a0b33014"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\gizmo\\scene-gizmo.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
     ]
   },
   "path": {
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-billboard.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\vert.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\particle-common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\transform.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\tinted-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\no-tint-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-camera-texture.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\camera-texture-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\camera-texture-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-clear-stencil.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-graphics.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-occlusion-query.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\occlusion-query-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-world-bound.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\occlusion-query-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-particle-gpu.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\particle-vs-gpu.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\transform.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\particle-common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\tinted-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\no-tint-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-particle-trail.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\particle-trail.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\particle-common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\transform.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\tinted-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\no-tint-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-particle.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\particle-vs-legacy.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\transform.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\particle-common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\tinted-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\no-tint-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-reflection-deferred.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shared-ubos.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\packing.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lightingmap-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-surface-entry.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-standard-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-environment.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\texture-lod.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unpack.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-diffusemap.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-standard-additive.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-forward-light.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-cluster-additive.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\octahedron-transform.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lightingmap-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-spine.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\alpha-test.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-sprite.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\embedded-alpha.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\alpha-test.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-standard.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shared-ubos.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\packing.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lightingmap-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-surface-entry.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-standard-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-environment.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\texture-lod.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unpack.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-diffusemap.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-standard-additive.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-forward-light.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-cluster-additive.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\octahedron-transform.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lightingmap-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-terrain.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\terrain-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\packing.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\terrain-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-surface-entry.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-standard-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-environment.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\texture-lod.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unpack.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-diffusemap.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-standard-additive.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-forward-light.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-cluster-additive.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\octahedron-transform.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lightingmap-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-toon.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\outline-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\outline-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\toon-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shared-ubos.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\packing.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\toon-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-toon.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-forward-light.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-unlit.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-wireframe.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\wireframe-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\wireframe-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\editor\\gizmo.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gizmo-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gizmo-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\rect-area-light.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\line-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\line-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\editor\\grid-2d.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\grid-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\grid-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\editor\\grid-stroke.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\grid-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\grid-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\editor\\grid.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\grid-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\grid-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\editor\\light.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\light-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\light-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\editor\\terrain-circle-brush.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\terrain-brush-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\terrain-brush-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\editor\\terrain-image-brush.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\terrain-brush-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\terrain-brush-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\editor\\terrain-select-brush.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\terrain-brush-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\terrain-brush-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\pipeline\\bloom.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\bloom-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\prefilter-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\downsample-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\upsample-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\combine-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\pipeline\\deferred-lighting.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-standard-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\packing.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-environment.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\texture-lod.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unpack.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-diffusemap.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-standard-additive.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-forward-light.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-cluster-additive.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\octahedron-transform.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\pipeline\\planar-shadow.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\planar-shadow-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\planar-shadow-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\pipeline\\post-process.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\post-process-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\post-process-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\anti-aliasing.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\fxaa.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\pipeline\\skybox.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sky-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sky-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-environment.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unpack.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output-standard.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\pipeline\\smaa.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\smaa-edge-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\smaa-edge-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\smaa-blend-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\smaa-blend-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\pipeline\\tonemap.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\tonemap-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\tonemap-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\util\\batched-unlit.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\util\\profiler.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\profiler-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\profiler-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\util\\sequence-anim.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-fs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\util\\splash-screen.effect": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\splash-screen-vs.chunk",
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\splash-screen-fs.chunk"
+    ],
+    "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\default_ui\\atom.plist": [
+      "D:\\Arquivos e Programas\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\default_ui\\atom.png"
+    ],
     "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-clear-stencil.effect": [
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk"
@@ -197,6 +710,16 @@
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-fs.chunk"
     ],
+    "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\pipeline\\smaa.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\smaa-edge-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\smaa-edge-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\smaa-blend-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\smaa-blend-fs.chunk"
+    ],
     "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\pipeline\\deferred-lighting.effect": [
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting-vs.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode.chunk",
@@ -222,16 +745,6 @@
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-base.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\octahedron-transform.chunk"
     ],
-    "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\pipeline\\smaa.effect": [
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\smaa-edge-vs.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\smaa-edge-fs.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\smaa-blend-vs.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\smaa-blend-fs.chunk"
-    ],
     "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\pipeline\\skybox.effect": [
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sky-vs.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
@@ -245,14 +758,6 @@
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output-standard.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk"
     ],
-    "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\pipeline\\tonemap.effect": [
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\tonemap-vs.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\tonemap-fs.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk"
-    ],
     "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-spine.effect": [
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
@@ -260,14 +765,13 @@
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\alpha-test.chunk"
     ],
-    "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-sprite.effect": [
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+    "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\pipeline\\tonemap.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\tonemap-vs.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\embedded-alpha.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\alpha-test.chunk"
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\tonemap-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk"
     ],
     "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\pipeline\\post-process.effect": [
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\post-process-vs.chunk",
@@ -282,6 +786,15 @@
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\post-process-fs.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\anti-aliasing.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\fxaa.chunk"
+    ],
+    "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-sprite.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\embedded-alpha.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\alpha-test.chunk"
     ],
     "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\builtin-billboard.effect": [
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\vert.chunk",
@@ -371,6 +884,14 @@
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
     ],
+    "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\editor\\grid-2d.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\grid-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\grid-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
+    ],
     "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\editor\\gizmo.effect": [
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gizmo-vs.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
@@ -383,14 +904,6 @@
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\line-fs.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk"
-    ],
-    "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\editor\\grid-2d.effect": [
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\grid-vs.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\grid-fs.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk"
     ],
     "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\effects\\editor\\grid-stroke.effect": [
       "C:\\ProgramData\\cocos\\editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\grid-vs.chunk",
