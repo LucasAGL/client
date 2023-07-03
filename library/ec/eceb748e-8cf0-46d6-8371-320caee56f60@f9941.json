@@ -1,17 +1,17 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "NPC_01_b",
+    "name": "Character_Eye",
     "atlas": "",
     "rect": {
-      "x": 357,
-      "y": 1335,
-      "width": 310,
-      "height": 507
+      "x": 378,
+      "y": 1464,
+      "width": 113,
+      "height": 114
     },
     "offset": {
-      "x": 0,
-      "y": -564.5
+      "x": -77.5,
+      "y": -497
     },
     "originalSize": {
       "width": 1024,
@@ -24,7 +24,7 @@
       0,
       0
     ],
-    "texture": "ad6864af-9aac-4abc-9569-80691d4639af@6c48a",
+    "texture": "eceb748e-8cf0-46d6-8371-320caee56f60@6c48a",
     "packable": true
   }
 }

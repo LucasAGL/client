@@ -4,18 +4,18 @@
     "name": "NPC_02_b",
     "atlas": "",
     "rect": {
-      "x": 89,
-      "y": 333,
-      "width": 79,
-      "height": 128
+      "x": 357,
+      "y": 1335,
+      "width": 310,
+      "height": 507
     },
     "offset": {
-      "x": 0.5,
-      "y": -141
+      "x": 0,
+      "y": -564.5
     },
     "originalSize": {
-      "width": 256,
-      "height": 512
+      "width": 1024,
+      "height": 2048
     },
     "rotated": false,
     "capInsets": [

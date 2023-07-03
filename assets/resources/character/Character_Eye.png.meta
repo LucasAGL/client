@@ -2,7 +2,7 @@
   "ver": "1.0.22",
   "importer": "image",
   "imported": true,
-  "uuid": "fc89f361-3eea-4e49-a620-91feaae7d39b",
+  "uuid": "eceb748e-8cf0-46d6-8371-320caee56f60",
   "files": [
     ".png",
     ".json"
@@ -10,19 +10,19 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "fc89f361-3eea-4e49-a620-91feaae7d39b@6c48a",
-      "displayName": "NPC_03_b",
+      "uuid": "eceb748e-8cf0-46d6-8371-320caee56f60@6c48a",
+      "displayName": "Character_Eye",
       "id": "6c48a",
       "name": "texture",
       "userData": {
         "wrapModeS": "clamp-to-edge",
         "wrapModeT": "clamp-to-edge",
-        "imageUuidOrDatabaseUri": "fc89f361-3eea-4e49-a620-91feaae7d39b",
         "minfilter": "linear",
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 0,
-        "isUuid": true
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "eceb748e-8cf0-46d6-8371-320caee56f60"
       },
       "ver": "1.0.21",
       "imported": true,
@@ -33,20 +33,20 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "fc89f361-3eea-4e49-a620-91feaae7d39b@f9941",
-      "displayName": "NPC_03_b",
+      "uuid": "eceb748e-8cf0-46d6-8371-320caee56f60@f9941",
+      "displayName": "Character_Eye",
       "id": "f9941",
       "name": "spriteFrame",
       "userData": {
         "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
-        "offsetX": 0,
-        "offsetY": -564.5,
-        "trimX": 357,
-        "trimY": 1335,
-        "width": 310,
-        "height": 507,
+        "offsetX": -77.5,
+        "offsetY": -497,
+        "trimX": 378,
+        "trimY": 1464,
+        "width": 113,
+        "height": 114,
         "rawWidth": 1024,
         "rawHeight": 2048,
         "borderTop": 0,
@@ -55,7 +55,7 @@
         "borderRight": 0,
         "packable": true,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "fc89f361-3eea-4e49-a620-91feaae7d39b@6c48a",
+        "imageUuidOrDatabaseUri": "eceb748e-8cf0-46d6-8371-320caee56f60@6c48a",
         "atlasUuid": ""
       },
       "ver": "1.0.9",
@@ -67,8 +67,8 @@
     }
   },
   "userData": {
-    "type": "sprite-frame",
     "hasAlpha": true,
-    "redirect": "fc89f361-3eea-4e49-a620-91feaae7d39b@f9941"
+    "type": "sprite-frame",
+    "redirect": "eceb748e-8cf0-46d6-8371-320caee56f60@f9941"
   }
 }

@@ -14340,7 +14340,7 @@
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character": {
-    "time": 1687738295792.7263,
+    "time": 1688422560356.9346,
     "uuid": "3f47ab20-830b-42f3-98ee-4e6a114d1474",
     "missing": false
   },
@@ -14465,7 +14465,7 @@
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\prefab\\characters\\Character.prefab": {
-    "time": 1687366553862.5056,
+    "time": 1688423170640.5615,
     "uuid": "36dbf9c1-5633-4e4a-9966-700528e0bb3b",
     "missing": false
   },
@@ -14700,7 +14700,7 @@
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\NPC": {
-    "time": 1687738295790.7249,
+    "time": 1688422458890.4038,
     "uuid": "b42c7725-8166-45db-8cf9-84ad4dc39a98",
     "missing": false
   },
@@ -15435,32 +15435,32 @@
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\NPC\\NPC_01_a.png": {
-    "time": 1687272164628.9055,
+    "time": 1688422394878.9055,
     "uuid": "f651f543-203c-420e-abfa-044cb7fe6073",
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\NPC\\NPC_01_b.png": {
-    "time": 1687272415425.7825,
+    "time": 1688422408320.3137,
     "uuid": "ad6864af-9aac-4abc-9569-80691d4639af",
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\NPC\\NPC_02_a.png": {
-    "time": 1687272168726.5632,
+    "time": 1688422419562.4993,
     "uuid": "ec1ea4fe-a5cf-4890-8a99-1cbedd37edd3",
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\NPC\\NPC_02_b.png": {
-    "time": 1687272156031.2495,
+    "time": 1688422442753.9072,
     "uuid": "399982ef-69fa-4c2c-833e-a424abe2dcbe",
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\NPC\\NPC_03_a.png": {
-    "time": 1687272175812.4993,
+    "time": 1688422452035.1553,
     "uuid": "3e04c27b-9c37-49c7-87e3-ab2d7711ef9b",
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\NPC\\NPC_03_b.png": {
-    "time": 1687272160128.9055,
+    "time": 1688422458832.032,
     "uuid": "fc89f361-3eea-4e49-a620-91feaae7d39b",
     "missing": false
   },
@@ -16817,25 +16817,25 @@
     "time": 1686689085981.5369
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\NPC\\NPC_01_a.png.meta": {
-    "time": 1687272187892.7288
+    "time": 1688422475828.4224
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\NPC\\NPC_02_a.png.meta": {
-    "time": 1687272187889.7275
+    "time": 1688422475788.4133
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\NPC\\NPC_01_b.png.meta": {
-    "time": 1687272202875.9387
+    "time": 1688422475788.4133
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\NPC\\NPC_03_a.png.meta": {
-    "time": 1687272187890.7275
+    "time": 1688422490788.4202
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\NPC\\NPC_02_b.png.meta": {
-    "time": 1687272202906.9468
+    "time": 1688422490790.4194
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\Pawn\\pawn_01_a.png.meta": {
     "time": 1687276791098.0012
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\NPC\\NPC_03_b.png.meta": {
-    "time": 1687272202873.939
+    "time": 1688422490830.4292
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\Pawn\\pawn_02_b.png.meta": {
     "time": 1687276791095.0007
@@ -17214,5 +17214,29 @@
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\skills\\melee\\8005.png.meta": {
     "time": 1686689085976.536
+  },
+  "D:\\Github\\NeuralMMO\\assets\\resources\\character\\Character_Eye.png.meta": {
+    "time": 1688422589691.674
+  },
+  "D:\\Github\\NeuralMMO\\assets\\resources\\character\\Character_Eye.png": {
+    "time": 1688422557922.548,
+    "uuid": "eceb748e-8cf0-46d6-8371-320caee56f60",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Animations.meta": {
+    "time": 1688425149907.6936
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Animations\\Idle.anim.meta": {
+    "time": 1688425149917.696
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Animations": {
+    "time": 1688425149906.6936,
+    "uuid": "a7936c51-8907-4e07-b309-263430b5aa01",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Animations\\Idle.anim": {
+    "time": 1688425149849.681,
+    "uuid": "a6205841-c8e4-40c1-b880-3bcf6c7b458e",
+    "missing": false
   }
 }
