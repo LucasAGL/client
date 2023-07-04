@@ -14260,7 +14260,7 @@
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\scene": {
-    "time": 1687738296571.7356,
+    "time": 1688433797528.6265,
     "uuid": "2eaea1a2-197c-4abb-b35f-e98d2be0b770",
     "missing": false
   },
@@ -14330,7 +14330,7 @@
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\prefab\\ui": {
-    "time": 1687738295717.8696,
+    "time": 1688435687111.7988,
     "uuid": "f45d6ddf-c844-4871-b31a-19f894d7dc9a",
     "missing": false
   },
@@ -14350,7 +14350,7 @@
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\head": {
-    "time": 1687738295964.4314,
+    "time": 1688436164142.1587,
     "uuid": "7c540355-7111-4f58-b363-104dcd9fe856",
     "missing": false
   },
@@ -14380,12 +14380,12 @@
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\scene\\Game.scene": {
-    "time": 1687367139101.7122,
+    "time": 1688437272393.5376,
     "uuid": "9cc1b3ad-cdfb-4f32-9060-bc75f1e61b22",
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\scene\\Main.scene": {
-    "time": 1686689085990.5388,
+    "time": 1688433573828.7268,
     "uuid": "b2ff2fc9-3cca-4e7b-9dff-35a968adcc99",
     "missing": false
   },
@@ -14465,7 +14465,7 @@
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\prefab\\characters\\Character.prefab": {
-    "time": 1688427522227.0698,
+    "time": 1688437550389.471,
     "uuid": "36dbf9c1-5633-4e4a-9966-700528e0bb3b",
     "missing": false
   },
@@ -14580,17 +14580,17 @@
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\prefab\\ui\\Damge.prefab": {
-    "time": 1686689085887.5154,
+    "time": 1688435852753.685,
     "uuid": "a49ebabc-734b-4673-bedc-df66f829c3b9",
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\prefab\\ui\\HeadInfo.prefab": {
-    "time": 1686689085887.5154,
+    "time": 1688436522927.0093,
     "uuid": "c0d02654-3794-43d5-a034-97c366e45f80",
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\prefab\\ui\\UIAgentStatus.prefab": {
-    "time": 1686689085888.516,
+    "time": 1688435164105.5234,
     "uuid": "6ac03358-a4ea-45fe-b7c4-ee0fd1ba5815",
     "missing": false
   },
@@ -14605,12 +14605,12 @@
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\prefab\\ui\\UIGame.prefab": {
-    "time": 1686689085891.5168,
+    "time": 1688433340118.7927,
     "uuid": "541aa88b-e767-4f7d-9b8f-d491704d9341",
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\prefab\\ui\\UIInfo.prefab": {
-    "time": 1686689085891.5168,
+    "time": 1688435462062.0525,
     "uuid": "759900db-6c7c-47ee-af8b-e3af7e9468e3",
     "missing": false
   },
@@ -14620,7 +14620,7 @@
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\prefab\\ui\\UIItemPanel.prefab": {
-    "time": 1686689085892.5166,
+    "time": 1688433114141.4792,
     "uuid": "c61f1d48-d432-4d66-864d-ebf4cd6f7395",
     "missing": false
   },
@@ -14640,17 +14640,17 @@
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\prefab\\ui\\UIProperty.prefab": {
-    "time": 1686689085894.518,
+    "time": 1688435429176.0005,
     "uuid": "be01f335-cc69-4bd1-aa67-7195f78fb07f",
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\prefab\\ui\\UISkills.prefab": {
-    "time": 1686689085894.518,
+    "time": 1688435447889.6648,
     "uuid": "fde7d371-ee88-45bd-bb9f-0039aea8cfac",
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\prefab\\ui\\UIStatisticalData.prefab": {
-    "time": 1686689085895.5178,
+    "time": 1688432179540.799,
     "uuid": "da83dea1-191b-49e8-83a1-4a8d0c29c453",
     "missing": false
   },
@@ -14662,11 +14662,6 @@
   "D:\\Github\\NeuralMMO\\assets\\prefab\\ui\\UITeamAgent.prefab": {
     "time": 1686689085896.5176,
     "uuid": "78db71a9-433e-40e9-8b9d-f8067c970c98",
-    "missing": false
-  },
-  "D:\\Github\\NeuralMMO\\assets\\prefab\\ui\\UITeamScorll.prefab": {
-    "time": 1686689085896.5176,
-    "uuid": "92fc6a03-caf5-4b91-8c3e-f1920f0f258c",
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\prefab\\VFX\\VFX_BornCharacter.prefab": {
@@ -14775,7 +14770,7 @@
     "missing": false
   },
   "D:\\Github\\NeuralMMO\\assets\\resources\\head\\main_bar_green.png": {
-    "time": 1686689085923.524,
+    "time": 1688436164074.2175,
     "uuid": "4500b4ba-44dd-4a5d-aab0-8f0e9568386b",
     "missing": false
   },
@@ -16360,9 +16355,6 @@
   "D:\\Github\\NeuralMMO\\assets\\prefab\\VFX\\VFX_TileConsumeRadial.prefab.meta": {
     "time": 1687263523923.4631
   },
-  "D:\\Github\\NeuralMMO\\assets\\prefab\\ui\\UITeamScorll.prefab.meta": {
-    "time": 1686689085896.5176
-  },
   "D:\\Github\\NeuralMMO\\assets\\resources\\character\\NPC.meta": {
     "time": 1686689085897.5183
   },
@@ -17237,6 +17229,166 @@
   "D:\\Github\\NeuralMMO\\assets\\Animations\\Idle.anim": {
     "time": 1688425149849.681,
     "uuid": "a6205841-c8e4-40c1-b880-3bcf6c7b458e",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font.meta": {
+    "time": 1688428204936.7258
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font": {
+    "time": 1688428355060.228,
+    "uuid": "9ac68150-a5d1-45a2-b0e6-a903b22e0c31",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-ExtraBoldItalic.ttf.meta": {
+    "time": 1688428355063.2275
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-ExtraLight.ttf.meta": {
+    "time": 1688428355062.228
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-ExtraLightItalic.ttf.meta": {
+    "time": 1688428355061.2278
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-Italic.ttf.meta": {
+    "time": 1688428355063.2275
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-Light.ttf.meta": {
+    "time": 1688428355255.2007
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-LightItalic.ttf.meta": {
+    "time": 1688428355255.2007
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-MediumItalic.ttf.meta": {
+    "time": 1688428355256.2
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-Medium.ttf.meta": {
+    "time": 1688428355257.2002
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-Regular.ttf.meta": {
+    "time": 1688428355259.201
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-SemiBold.ttf.meta": {
+    "time": 1688428355263.2012
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-SemiBoldItalic.ttf.meta": {
+    "time": 1688428355264.2026
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-Thin.ttf.meta": {
+    "time": 1688428355265.2021
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-Black.ttf.meta": {
+    "time": 1688428355266.202
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-BlackItalic.ttf.meta": {
+    "time": 1688428355267.203
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-ThinItalic.ttf.meta": {
+    "time": 1688428355268.2034
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-Bold.ttf.meta": {
+    "time": 1688428355269.2026
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-ExtraBold.ttf.meta": {
+    "time": 1688428355271.2036
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-BoldItalic.ttf.meta": {
+    "time": 1688428355270.2034
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-ExtraLightItalic.ttf": {
+    "time": 1688428330237.9956,
+    "uuid": "e462e295-397e-4bd3-81eb-5756844e674c",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-ExtraLight.ttf": {
+    "time": 1688428330112.4492,
+    "uuid": "cd85013c-085c-433a-8040-327802aba975",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-Italic.ttf": {
+    "time": 1688428330265.0017,
+    "uuid": "6d58208a-c300-439b-865c-11130827fe20",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-ExtraBoldItalic.ttf": {
+    "time": 1688428330320.014,
+    "uuid": "cab55cf6-ef4e-45be-8ba4-48f21db8b3ef",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-Light.ttf": {
+    "time": 1688428330128.453,
+    "uuid": "4ef54eaa-c691-4202-a346-a2e5bfdd3e6e",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-LightItalic.ttf": {
+    "time": 1688428330251.9988,
+    "uuid": "711c6675-fd8b-43c7-9070-1b0c3892f204",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-MediumItalic.ttf": {
+    "time": 1688428330278.0044,
+    "uuid": "55ff0612-7db7-423a-a4f3-f700297d1252",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-Medium.ttf": {
+    "time": 1688428330157.8245,
+    "uuid": "b2d7ff00-e7ec-4e62-ad65-1ae337589a21",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-Regular.ttf": {
+    "time": 1688428330142.4558,
+    "uuid": "a4c4d6de-5553-44e2-af3c-51c18485055e",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-SemiBold.ttf": {
+    "time": 1688428330170.8274,
+    "uuid": "1c10ec4d-0fc7-4d45-88d8-7227cb03b60a",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-SemiBoldItalic.ttf": {
+    "time": 1688428330291.0076,
+    "uuid": "390f8e42-102b-40fb-94ef-252466a560d6",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-Thin.ttf": {
+    "time": 1688428330098.446,
+    "uuid": "5774e5ff-95ab-4781-a0d7-7dbb26467456",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-Black.ttf": {
+    "time": 1688428330211.8367,
+    "uuid": "f5b6c0ae-4ad6-4664-a9df-9f998ab1795a",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-BlackItalic.ttf": {
+    "time": 1688428330333.0168,
+    "uuid": "6243738e-338f-43ab-9774-8c1f798dd4c6",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-ThinItalic.ttf": {
+    "time": 1688428330224.993,
+    "uuid": "1d9e0194-3b79-4afd-a4c0-0247b1ff1509",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-Bold.ttf": {
+    "time": 1688428330184.8306,
+    "uuid": "8c6c2dd8-f553-4f5e-8688-4b50514164f0",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-BoldItalic.ttf": {
+    "time": 1688428330305.0105,
+    "uuid": "31afd532-0b5f-434d-86cc-58f38de794ce",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\Font\\Montserrat-ExtraBold.ttf": {
+    "time": 1688428330197.8335,
+    "uuid": "ded0e5b2-142d-4abc-a2c2-f165939dbd15",
+    "missing": false
+  },
+  "D:\\Github\\NeuralMMO\\assets\\prefab\\ui\\UITeamScroll.prefab.meta": {
+    "time": 1688435687116.8
+  },
+  "D:\\Github\\NeuralMMO\\assets\\prefab\\ui\\UITeamScroll.prefab": {
+    "time": 1688435687114.8,
+    "uuid": "92fc6a03-caf5-4b91-8c3e-f1920f0f258c",
     "missing": false
   }
 }
